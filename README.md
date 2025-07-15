@@ -42,8 +42,8 @@ This project implements an intelligent AI assistant that dynamically routes user
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rohit83r/Intelligent-Output-Generation-Graph.git
-   cd Intelligent-Output-Generation-Graph
+   git clone https://github.com/rohit83r/AI-Assistant-with-Dynamic-Routing-System.git
+   cd AI-Assistant-with-Dynamic-Routing-System
    ```
 
 2. Install dependencies:
